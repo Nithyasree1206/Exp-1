@@ -15,27 +15,23 @@ To design and develop an ATM & Banking System using Software Engineering concept
 # DIAGRAMS:
 
 ## 1. Use Case Diagram
-<img width="765" height="804" alt="image" src="https://github.com/user-attachments/assets/edf79c19-4b49-4771-9294-4eb3c63802b6" />
+<img width="807" height="881" alt="image" src="https://github.com/user-attachments/assets/d7194e77-675c-4dce-a535-6793b33f047a" />
 
 
 ## 2. Class Diagram
-<img width="1489" height="867" alt="image" src="https://github.com/user-attachments/assets/b2b452b9-ebba-40e7-a220-75e27cd39bbb" />
-
+<img width="1224" height="876" alt="image" src="https://github.com/user-attachments/assets/d3feb150-b3db-4dbf-b53b-87146e5e71f4" />
 
 ## 3. Activity Diagram
-<img width="751" height="1014" alt="image" src="https://github.com/user-attachments/assets/33560b0c-3df0-464b-a212-3fdf3be7a539" />
-
+<img width="497" height="876" alt="image" src="https://github.com/user-attachments/assets/cfad157e-98bc-417d-9247-f1cee9302c17" />
 
 ## 4. Sequence Diagram
-<img width="931" height="988" alt="image" src="https://github.com/user-attachments/assets/b9918094-b68a-44da-b48d-0fd822a536d0" />
+<img width="768" height="871" alt="image" src="https://github.com/user-attachments/assets/9201327d-f098-4ce6-9482-a2734404b400" />
 
 ## 5. Communication Diagram
-<img width="1222" height="772" alt="image" src="https://github.com/user-attachments/assets/5087aa86-7b9c-463f-9cac-7c2a778eb51c" />
-
+<img width="917" height="775" alt="image" src="https://github.com/user-attachments/assets/8fbb4781-f5d6-4a56-ab91-4683eb3d90cf" />
 
 ## 6. Package Diagram
-<img width="895" height="676" alt="image" src="https://github.com/user-attachments/assets/186161bd-c584-47d9-9aa3-80eccf2ab4c7" />
-
+<img width="1005" height="536" alt="image" src="https://github.com/user-attachments/assets/96c26cdb-eacb-4c44-ae5e-be647cfe05f2" />
 
 
 # RESULT:
